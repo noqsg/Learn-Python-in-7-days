@@ -1,7 +1,7 @@
-# Learn C# in 7 days
-This is the code repository for [Learn C# in 7 days](https://www.packtpub.com/application-development/learn-c-7-days?utm_source=github&utm_medium=repository&utm_campaign=9781787287044), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+# Learn Python in 7 days
+This is the code repository for [Learn Python in 7 days](https://www.packtpub.com/application-development/learn-c-7-days?utm_source=github&utm_medium=repository&utm_campaign=9781787287044), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
-The book begins by teaching you the basic fundamentals using real-world practical examples and gets you acquainted with C# programming. We cover features such as variables, syntax, control flows, and then move on to concepts such as statements, arrays, string processing, method, inheritance, and I/O handling.
+The book begins by teaching you the basic fundamentals using real-world practical examples and gets you acquainted with Python programming. We cover features such as variables, syntax, control flows, and then move on to concepts such as statements, arrays, string processing, method, inheritance, and I/O handling.
 
 Later, you’ll explore the concepts of Object-Oriented Programming (OOP) through a real-world example. Then we dive into advanced-level concepts such as generics and collections, and you’ll get acquainted with objects and LINQ. Towards the end, you’ll build an application that covers all the concepts explained in the book.
 
@@ -22,7 +22,7 @@ var class2 = new Day02New.ClassExample();
 All supporting code samples in this book have been tested on .NET Core 2.0 using Visual Studio 2017 update 3, database using SQL Server 2008R2 or later on the Windows platform.
 
 ## Related Products
-* [Unity 5: Learning C# by Developing Games](https://www.packtpub.com/game-development/unity-5-learning-c-developing-games?utm_source=github&utm_medium=repository&utm_campaign=9781787127272)
+* [Unity 5: Learning Python by Developing Games](https://www.packtpub.com/game-development/unity-5-learning-c-developing-games?utm_source=github&utm_medium=repository&utm_campaign=9781787127272)
 
 * [Learning Boost C++ Libraries](https://www.packtpub.com/application-development/learning-boost-c-libraries?utm_source=github&utm_medium=repository&utm_campaign=9781783551217)
 
